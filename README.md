@@ -1,4 +1,4 @@
-### Hi there, I am Jay Anton Robico call me sir Jay 👋
+### Hi there, I am Jay Anton Robico 👋
 
 - 🔭 I’m currently working on covid 19 tracker using API and brgy website for automating form applications.
 - 🌱 I’m currently learning fullstack web development using Django and React.
