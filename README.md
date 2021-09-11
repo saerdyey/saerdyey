@@ -1,5 +1,3 @@
-<a href="#"><img width="100%" height="auto" src="https://media-exp1.licdn.com/dms/image/C5616AQEdAK…eta&t=xssFZOAM7511ixpDlHuQtd59XCewJ5vmQtpNrXl3MKQ" height="175px"/></a>
-
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Jay</h1>
 <h3 align="center">I'm a Full Stack Developer from Philippines.</h3>
 
