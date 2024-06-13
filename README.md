@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello!+👋;I'm+Jay+Anton+Roblico.&center=true&size=30">
   </a>
 </h1>
-<p align="center">I am a Software Engineer from Philippines, focused on working with Web and Mobile Systems. Currently working from home as a Fullstack Javascript Web Developer.</p>
+<!-- <p align="center">I am a Software Engineer from Philippines, focused on working with Web and Mobile Systems. Currently working from home as a Fullstack Javascript Web Developer.</p> -->
 
 <!-- languages and tools -->
 <div align="center">
